@@ -23,8 +23,8 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 | <!-- CHANNEL_PROJECTS:START -->
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/omariosouto/alurakut'/>](https://alurakut.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/alura-challenges/alurakut'/>](https://alurakut-eta.vercel.app)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/omariosouto/alurakut-base'/>](alurakut-base.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/omariosouto/alurakut-alpha'/>](alurakut.vercel.app)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/omariosouto/alurakut-base'/>](alurakut-base.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/omariosouto/alurakut-code'/>](https://github.com/omariosouto/alurakut-code)<!-- CHANNEL_PROJECTS:END --> |
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)](https://github.com/alura-challenges/alurakut-base/blob/master/LICENSE)
