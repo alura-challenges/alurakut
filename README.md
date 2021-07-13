@@ -440,6 +440,7 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/vicaescorcio/vikut'/>](vikut.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/ibere82/githubkut'/>](https://githubkut-rho.vercel.app/)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/xDouglas90/imersao-react-3'/>](alurakut-xdouglas90.vercel.app)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/lucaspires-source/Imers-o-React-Alura-2021'/>](https://imers-o-react-alura-2021.vercel.app/)<!-- CHANNEL_PROJECTS:END --> |
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/lucaspires-source/Imers-o-React-Alura-2021'/>](https://imers-o-react-alura-2021.vercel.app/)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/gabrielcano-git/alurakut'/>](https://alurakut-alpha-rose.vercel.app/)<!-- CHANNEL_PROJECTS:END --> |
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)](https://github.com/alura-challenges/alurakut-base/blob/master/LICENSE)
