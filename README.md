@@ -5,7 +5,7 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 - Siga as instruções das aulas e conteúdo extra da Imersão React Next.js
 - Faça o deploy na Vercel e compartilhe
 
-![Capa do Projeto](https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://alurakut-eta.vercel.app/)
+![Capa do Projeto](https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://alurakut-eta.vercel.app/&v=2)
 
 ## Como colocar o meu projeto na vitrine da imersão?
 - Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
