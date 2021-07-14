@@ -18,8 +18,8 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 
 # Contribuidores 
 
-| Pessoa que criou o projeto |
-| --- |
+| Pessoa que criou o projeto | Projeto |
+| --- | --- |
 | <!-- CHANNEL_PROJECTS:START -->
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/alura-challenges/alurakut'/>](https://alurakut-eta.vercel.app) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://alurakut-eta.vercel.app'/>](https://alurakut-eta.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/douglasgusson/alurakut'/>](alurakut-douglas.vercel.app) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=alurakut-douglas.vercel.app'/>](alurakut-douglas.vercel.app)
