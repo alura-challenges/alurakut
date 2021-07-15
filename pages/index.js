@@ -47,7 +47,7 @@ function ProfileRelationsBox(propriedades) {
 export default function Home() {
   const usuarioAleatorio = 'omariosouto';
   const [comunidades, setComunidades] = React.useState([{
-    id: '12802378123789378912789789123896123', 
+    id: '12802378123789378912789789123896123',
     title: 'Eu odeio acordar cedo',
     image: 'https://alurakut.vercel.app/capa-comunidade-01.jpg'
   }]);
@@ -90,7 +90,7 @@ export default function Home() {
         <div className="welcomeArea" style={{ gridArea: 'welcomeArea' }}>
           <Box>
             <h1 className="title">
-              Bem vindo(a) 
+              Bem vindo(a)
             </h1>
 
             <OrkutNostalgicIconSet />
