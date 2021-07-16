@@ -183,7 +183,7 @@ export default function Home(props) {
               Comunidades ({comunidades.length})
             </h2>
             <ul>
-              {comunidades.map((itemAtual) => {
+              {comunidades.slice(0,6).map((itemAtual) => {
                 return (
                   <li key={itemAtual.id}>
                     <a href={`/communities/${itemAtual.id}`}>
@@ -201,7 +201,7 @@ export default function Home(props) {
             </h2>
 
             <ul>
-              {pessoasFavoritas.map((itemAtual) => {
+              {pessoasFavoritas.slice(0,6).map((itemAtual) => {
                 return (
                   <li key={itemAtual}>
                     <a href={`/users/${itemAtual}`}>
@@ -220,29 +220,32 @@ export default function Home(props) {
 }
 
 
-export async function getServerSideProps(context) {
-  const cookies = nookies.get(context)
+export async function getServerSideProps(ctx) {
+  const cookies = nookies.get(ctx);
   const token = cookies.USER_TOKEN;
-  const { isAuthenticated } = await fetch('https://alurakut.vercel.app/api/auth', {
-    headers: {
-        Authorization: token
-      }
-  })
-  .then((resposta) => resposta.json())
+  const decodedToken = jwt.decode(token);
+  const githubUser = decodedToken?.githubUser;
 
-  if(!isAuthenticated) {
+  if (!githubUser) {
     return {
       redirect: {
         destination: '/login',
         permanent: false,
-      }
+      },
     }
   }
 
-  const { githubUser } = jwt.decode(token);
+  // const followers = await fetch(`https://api.github.com/users/${githubUser}/followers`)
+  //   .then((res) => res.json())
+  //   .then(followers => followers.map((follower) => ({
+  //     id: follower.id,
+  //     name: follower.login,
+  //     image: follower.avatar_url,
+  //   })));
+
   return {
     props: {
-      githubUser
-    }, // will be passed to the page component as props
+      githubUser,
+    }
   }
 }
